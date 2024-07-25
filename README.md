@@ -1,5 +1,6 @@
 ## Hola👋, Soy Raul 
 
+
 Soy un QA Tester con un alto nivel de responsabilidad y conocimientos en casos de prueba, Postman, Jira, Python y automatización de pruebas. Estoy sumamente emocionado por la oportunidad de crecer y utilizar mis habilidades para asegurar la mejor calidad en los productos, trabajando en equipo y contribuyendo al éxito de los proyectos 
 
 ⚡ Hechos interesantes: Me encanta la tecnología y la información relacionada al area de la salud 
