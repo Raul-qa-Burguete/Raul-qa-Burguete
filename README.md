@@ -1,15 +1,37 @@
-## Hi there 👋, My name is Raúl
+## Hola👋, Soy Raul 
 
-i am passionate QA Tester with a commitment to quality and technological processes. I love staying updated day to day and constantly learning about the latest trends in technology. With knowledge in Python, SQL, manual testing and more, I am always ready to face new challenges and contribute to the success of each project I participate in. Let's connect and continue growing together in the world of technology!"
--🌱 I am currently learning python related skills
+Soy un QA Tester con un alto nivel de responsabilidad y conocimientos en casos de prueba, Postman, Jira, Python y automatización de pruebas. Estoy sumamente emocionado por la oportunidad de crecer y utilizar mis habilidades para asegurar la mejor calidad en los productos, trabajando en equipo y contribuyendo al éxito de los proyectos 
 
+⚡ Hechos interesantes: Me encanta la tecnología y la información relacionada al area de la salud 
 
--⚡ Fun fact: I love technology and the health area
+## Habilidades 
 
-## SKILS
-[Android] (https://ing.shields.io/badge/Android-300C8#?style«for-the-badge&logo=androidalogoColor-whiteslabelColor=101010)</br>
-1[Kotlin](https://ing.shields.io/badge/Kotlin-0095052style«for-the-badge&logo-kotlin&logoColor.hite&labelColor=101010)</br>
-[android Studie] (https://ing-shields.io/badge/Android_Studio-3DDC842style«for-the-badgeslogo=android-studioslogoColor=whites10belColor=101010)</br>
+![Static Badge](https://img.shields.io/badge/Python-109DFA)
+
+![Static Badge](https://img.shields.io/badge/Postman-E36B2C)
+
+![Static Badge](https://img.shields.io/badge/Diseño_de_pruebas-024A86)
+
+![Static Badge](https://img.shields.io/badge/Pruebas_de_aplicaciónes_web-E7D40A)
+
+![Static Badge](https://img.shields.io/badge/Android_Studio_web-6DC36D)
+
+![Static Badge](https://img.shields.io/badge/Pruebas_de_API-23BAC4)
+
+![Static Badge](https://img.shields.io/badge/Automatizacion_de_Pruebas-ECECEC)
+
+![Static Badge](https://img.shields.io/badge/Power_Automate-109DFA)
+
+## Habilidades Blandas
+![Static Badge](https://img.shields.io/badge/Trabajo_en_Equipo-109DFA)
+![Static Badge](https://img.shields.io/badge/Comunicación-ECECEC)
+![Static Badge](https://img.shields.io/badge/Adaptabilidad-6DC36D)
+
+## Datos de Contacto
+
+![Static Badge](https://img.shields.io/badge/Telefono-+522224018205-brightgreen?style=social&logo)
+
+![Static Badge](https://img.shields.io/badge/Linkedin-qa_raul_burguete-brightgreen?style=social&logo)
 
 <!--
 **Raul-qa-Burguete/Raul-qa-Burguete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
