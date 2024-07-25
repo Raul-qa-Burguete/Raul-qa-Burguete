@@ -1,6 +1,10 @@
 ## Hi there 👋
--🌱 I am currently learning python related skills,
+-🌱 I am currently learning python related skills
+
+
 -⚡ Fun fact: I love technology and the health area
+
+-Skils: SQL|PYTHON|POSTMAN|QA TEST
 
 <!--
 **Raul-qa-Burguete/Raul-qa-Burguete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
