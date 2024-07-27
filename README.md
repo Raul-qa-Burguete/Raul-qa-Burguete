@@ -6,11 +6,11 @@
 ## 🧑🏻‍💻 Sobre Mi:
 
 
-Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engineer, con un alto nivel de responsabilidad, esperando la oportunidad a cada momento de encontrar nuevos retos para seguir aprendiendo y ser mejor cada día 
+Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engineer, con un alto nivel de responsabilidad, esperando la oportunidad a cada momento de encontrar nuevos retos para seguir aprendiendo y superarme cada día 
 
-👨‍🏫 Actualmente me encuentro por culminar mi preparación de QA Engieneer en el BootCamp TripleTen, y muero de ganas de aplicar mis conocimientos y descubrir un mundo nuevo en esta area. 
+👨‍🏫 Actualmente me encuentro por culminar mi preparación de QA Engieneer en el BootCamp TripleTen, con una gran espectativa para aplicar mis conocimientos y descubrir un mundo nuevo en esta area. 
 
-👍🏼 Concidero que el trabajo se trata de dar siempre mas, porque al involucrarte con cada proyecto viene una oportunidad de crecimiento en conocimientos y habilidades que funionarán en un futuro.
+👍🏼 Concidero que el trabajo se trata de dar siempre mas del 100%, porque al involucrarte con cada proyecto viene una oportunidad de crecimiento en conocimientos y habilidades que funcionarán en un futuro.
 
 
 
@@ -33,8 +33,8 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 ## Datos de Contacto
 
 [![](https://img.shields.io/badge/Whatsapp-0DA419?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+522224018205)
+[![](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/qa-raul-burguete)
 
-![Static Badge](https://img.shields.io/badge/Linkedin-qa_raul_burguete-brightgreen?style=social&logo)
 
 <!--
 **Raul-qa-Burguete/Raul-qa-Burguete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
