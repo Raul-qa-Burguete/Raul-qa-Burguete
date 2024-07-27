@@ -20,24 +20,11 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 [![Python](https://img.shields.io/badge/Python-1C43C5?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-51E70C?style=for-the-badge&logo=Android&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-D0E70C?style=for-the-badge&logo=PyCharm&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-E7AF0C?style=for-the-badge&logo=SQL&logoColor=white)]()
+[![FIGMA](https://img.shields.io/badge/Figma-0C66E7?style=for-the-badge&logo=Figma&logoColor=white)]()
 
-![Static Badge](https://img.shields.io/badge/Python-109DFA)
 
-![Static Badge](https://img.shields.io/badge/Postman-E36B2C)
-
-![Static Badge](https://img.shields.io/badge/Diseño_de_pruebas-024A86)
-
-![Static Badge](https://img.shields.io/badge/Pruebas_de_aplicaciónes_web-E7D40A)
-
-![Static Badge](https://img.shields.io/badge/Android_Studio_web-6DC36D)
-
-![Static Badge](https://img.shields.io/badge/Pruebas_de_API-23BAC4)
-
-![Static Badge](https://img.shields.io/badge/Automatizacion_de_Pruebas-ECECEC)
-
-![Static Badge](https://img.shields.io/badge/Power_Automate-109DFA)
-
-## Habilidades Blandas
+## Habilidades
 ![Static Badge](https://img.shields.io/badge/Trabajo_en_Equipo-109DFA)
 ![Static Badge](https://img.shields.io/badge/Comunicación-ECECEC)
 ![Static Badge](https://img.shields.io/badge/Adaptabilidad-6DC36D)
