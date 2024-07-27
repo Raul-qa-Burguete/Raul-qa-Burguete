@@ -6,7 +6,7 @@
 ## 🧑🏻‍💻 Sobre Mi:
 
 
-Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engineer, con un alto nivel de responsabilidad, esperando la oportunidad a cada momento de encontrar nuevos retos para seguir aprendiendo y superarme cada día 
+Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engineer, con un alto nivel de responsabilidad y recilencia manteniendo una buena comunicación, esperando la oportunidad con cada momento de encontrar nuevos retos para seguir aprendiendo y superarme cada día 
 
 👨‍🏫 Actualmente me encuentro por culminar mi preparación de QA Engieneer en el BootCamp TripleTen, con una gran espectativa para aplicar mis conocimientos y descubrir un mundo nuevo en esta area. 
 
