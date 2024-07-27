@@ -3,12 +3,23 @@
 
 ## Hola👋, Soy Raul 
 
+## 🧑🏻‍💻 Sobre Mi:
 
-Soy un QA Tester con un alto nivel de responsabilidad y conocimientos en casos de prueba, Postman, Jira, Python y automatización de pruebas. Estoy sumamente emocionado por la oportunidad de crecer y utilizar mis habilidades para asegurar la mejor calidad en los productos, trabajando en equipo y contribuyendo al éxito de los proyectos 
 
-⚡ Hechos interesantes: Me encanta la tecnología y la información relacionada al area de la salud 
+Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engineer, con un alto nivel de responsabilidad, esperando la oportunidad a cada momento de encontrar nuevos retos para seguir aprendiendo y ser mejor cada día 
 
-## Habilidades 
+👨‍🏫 Actualmente me encuentro por culminar mi preparación de QA Engieneer en el BootCamp TripleTen, y muero de ganas de aplicar mis conocimientos y descubrir un mundo nuevo en esta area. 
+
+👍🏼 Concidero que el trabajo se trata de dar siempre mas, porque al involucrarte con cada proyecto viene una oportunidad de crecimiento en conocimientos y habilidades que funionarán en un futuro.
+
+
+
+## Tecnologías
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-1C43C5?style=for-the-badge&logo=Python&logoColor=white)]()
+[![Android Studio](https://img.shields.io/badge/Android_Studio-51E70C?style=for-the-badge&logo=Android&logoColor=white)]()
+[![PyCharm](https://img.shields.io/badge/PyCharm-D0E70C?style=for-the-badge&logo=PyCharm&logoColor=white)]()
 
 ![Static Badge](https://img.shields.io/badge/Python-109DFA)
 
