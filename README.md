@@ -35,6 +35,9 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 [![](https://img.shields.io/badge/Whatsapp-0DA419?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+522224018205)
 [![](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-raul-burguete)
 
+## Videos de Proyectos:
+[![](https://img.shields.io/badge/Prueba_Automatizada-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/u7n6lQdAOOs)
+
 ### :hammer_and_wrench: Lenguajes y herramientas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raul-qa-Burguete&theme=dark&background=000000)](https://git.io/streak-stats)
 
