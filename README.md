@@ -25,13 +25,14 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 
 
 ## Habilidades
-![Static Badge](https://img.shields.io/badge/Trabajo_en_Equipo-109DFA)
-![Static Badge](https://img.shields.io/badge/Comunicación-ECECEC)
-![Static Badge](https://img.shields.io/badge/Adaptabilidad-6DC36D)
+[![](https://img.shields.io/badge/Diseño_de_pruebas-22F0E9?style=for-the-badge&logo=Work&logoColor=white)]()
+[![](https://img.shields.io/badge/Pruebas_Aplicaciones_Web-22F0E9?style=for-the-badge&logo=Work&logoColor=white)]()
+[![](https://img.shields.io/badge/Pruebas_Aplicaciónes_Moviles-22F0E9?style=for-the-badge&logo=Work&logoColor=white)]()
+[![](https://img.shields.io/badge/Pruebas_API-22F0E9?style=for-the-badge&logo=Work&logoColor=white)]()
 
 ## Datos de Contacto
 
-![Static Badge](https://img.shields.io/badge/Telefono-+522224018205-brightgreen?style=social&logo)
+[![](https://img.shields.io/badge/Pruebas_API-22F0E9?style=for-the-badge&logo=Whatsapp&logoColor=white)](www.google.com)
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-qa_raul_burguete-brightgreen?style=social&logo)
 
