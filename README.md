@@ -32,7 +32,7 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 
 ## Datos de Contacto
 
-[![](https://img.shields.io/badge/Pruebas_API-22F0E9?style=for-the-badge&logo=Whatsapp&logoColor=white)](https:www.google.com)
+[![](https://img.shields.io/badge/Pruebas_API-22F0E9?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://www.google.com)
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-qa_raul_burguete-brightgreen?style=social&logo)
 
