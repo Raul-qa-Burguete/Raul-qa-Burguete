@@ -33,7 +33,7 @@ Soy un fan de la tecnología entuciasmado con iniciar una carrera como QA Engine
 ## Datos de Contacto
 
 [![](https://img.shields.io/badge/Whatsapp-0DA419?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+522224018205)
-[![](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/qa-raul-burguete)
+[![](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-raul-burguete)
 
 
 <!--
